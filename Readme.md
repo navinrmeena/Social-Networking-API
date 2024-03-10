@@ -19,13 +19,13 @@ This project provides an API for managing users, posts, and following functional
 1. Clone this repository:
 
    ```bash
-   git clone https://your-github-repo-url.git
+   git clone git@github.com:navinrmeena/Social-Networking-API.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project-name
+   cd Social-Networking-API
    ```
 
 3. Install dependencies:
